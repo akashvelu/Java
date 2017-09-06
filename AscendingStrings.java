@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class AscendingStrings {
 
+	//hi
+
 	public static int getRight(String s, int start, int end) {
 		String result = "";
 		while (start > end) {
